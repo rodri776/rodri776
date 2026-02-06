@@ -30,6 +30,6 @@ Building things at the intersection of human behavior and technology. Background
 
 ## 🏆 Recognition
 Outstanding Senior in Anthropology • Science, Technology, and the Humanities Award 
----
 
+---
 > "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." — Buckminster Fuller
