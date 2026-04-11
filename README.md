@@ -10,7 +10,7 @@ Building things at the intersection of human behavior and technology. Background
 
 ## Stack
 
-**Languages**: Python • R • Java • C • Swift  
+**Languages**: Python • SwiftUI/UIKit • R • SQL
 **Methods**: NLP • Network Science • Topic Modeling • Mixed Methods  
 **Tools**: Figma • SwiftUI • ArcGIS • NetLogo
 
