@@ -1,6 +1,6 @@
-# Juniper Rodriguez
+cc# Juniper Rodriguez
 
-**MPCS @ UChicago** | Anthropology → CS | Computational Social Science + App Dev
+**MPCS @ UChicago** | Anthropology → CS | Product Management + App Dev
 
 ## About
 
