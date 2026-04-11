@@ -1,4 +1,4 @@
-cc# Juniper Rodriguez
+# Juniper Rodriguez
 
 **MPCS @ UChicago** | Anthropology → CS | Product Management + App Dev
 
